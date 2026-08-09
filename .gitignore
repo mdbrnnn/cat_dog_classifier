@@ -1,0 +1,14 @@
+# Dataset
+PetImages/
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# TensorFlow
+*.h5
+
+best_model.keras

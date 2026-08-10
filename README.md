@@ -52,3 +52,10 @@ at epoch 25/25
 - NumPy
 - Matplotlib
 - Google Colab
+
+## Trained Model
+
+The trained model is available in the
+(https://github.com/mdbrnnn/cat_dog_classifier/releases/download/v1.0/best_model.keras)
+
+u can download `best_model.keras` and place it in the project directory.
